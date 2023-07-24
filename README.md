@@ -1,4 +1,3 @@
-Thanks for downloading this template!
 # Diogo Hartuiq Debarba Portfolio
 
 Using:
